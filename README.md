@@ -1,6 +1,7 @@
 # Tools:
   + Visual studio 2013 update 5
   + MVC 5
+  + .Net framework 4.5
   
 # Requirement is confused:
   + [Advanced Requirements]: Model will have only 4 properties: FirstName, LastName, Email, DateOfBirth (datetime) AND Date Of Birth field must be either 3 text-boxes or 3 drop-down lists for Year,Month, Day. 
@@ -16,4 +17,5 @@
   + Form submission: [UserController.cs](https://github.com/newbiecse/Studio60Test/blob/master/Studio60.Demo/Controllers/UserController.cs)
   + Regex: [UserViewModel.cs](https://github.com/newbiecse/Studio60Test/blob/master/Studio60.Demo/ViewModels/UserViewModel.cs) - for simple I don't want to use regex for email =))
   
-  
+# Expectation:
+  + If I'm fail - please tell me what's my wrong =)). Have a nice day =))!
