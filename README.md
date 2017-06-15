@@ -16,6 +16,7 @@
   + Custom Validation on server side: [DOBAttribute.cs](https://github.com/newbiecse/Studio60Test/blob/master/Studio60.Demo/ViewModels/Validators/DOBAttribute.cs) and [DOBFieldAttribute.cs](https://github.com/newbiecse/Studio60Test/blob/master/Studio60.Demo/ViewModels/Validators/DOBFieldAttribute.cs)
   + Form submission: [UserController.cs](https://github.com/newbiecse/Studio60Test/blob/master/Studio60.Demo/Controllers/UserController.cs)
   + Regex: [UserViewModel.cs](https://github.com/newbiecse/Studio60Test/blob/master/Studio60.Demo/ViewModels/UserViewModel.cs) - for simple I don't want to use regex for email =))
+  + You should disable javascript in your browser - every thing work well =))
   
 # Expectation:
   + If I'm fail - please tell me what's my wrong =)). Have a nice day =))!
